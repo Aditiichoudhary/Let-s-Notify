@@ -1,0 +1,5 @@
+{
+    "type": "email/sms/in-app",
+    "user_id": 1,
+    "message": "Your notification message"
+}
